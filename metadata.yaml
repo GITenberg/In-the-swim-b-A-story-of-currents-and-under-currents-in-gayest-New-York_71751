@@ -1,0 +1,34 @@
+_repo: In-the-swim-b-A-story-of-currents-and-under-currents-in-gayest-New-York_71751
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Savage, Richard
+    alias: Savage, Richard Henry
+    birthdate: 1846
+    deathdate: 1903
+    gutenberg_agent_id: '1913'
+    url: http://www.gutenberg.org/2009/agents/1913
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Henry_Savage
+description: ''
+gutenberg_issued: '2023-09-29'
+identifiers:
+  gutenberg: '71751'
+  lccn: 08002005
+language: en
+pgterms:marc904: https://archive.org/details/inswimstoryofcur00savaiala/page/n5/mode/2up
+pgterms:marc905: 20211112103924savage
+pgterms:marc906: '1898'
+pgterms:marc907: us
+production_note: Sonya Schermann, David Wilson and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aChicago :$bRand, McNally & Company, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'In the swim : $b A story of currents and under-currents in gayest New York'
+url: http://www.gutenberg.org/ebooks/71751
