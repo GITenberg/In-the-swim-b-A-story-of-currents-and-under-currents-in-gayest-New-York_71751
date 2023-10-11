@@ -1,5 +1,8 @@
 _repo: In-the-swim-b-A-story-of-currents-and-under-currents-in-gayest-New-York_71751
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71751-h/images/cover.jpg
 creator:
   author:
     agent_name: Savage, Richard
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1913
     wikipedia: https://en.wikipedia.org/wiki/Richard_Henry_Savage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71751#In-the-swim-b-A-story-of-currents-and-under-currents-in-gayest-New-York
 gutenberg_issued: '2023-09-29'
 identifiers:
   gutenberg: '71751'
